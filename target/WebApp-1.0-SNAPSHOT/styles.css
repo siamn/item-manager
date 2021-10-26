@@ -1,0 +1,156 @@
+.clearBoth {
+    clear: both;
+}
+
+h1.welcome {
+    text-align: center;
+    color: yellow;
+    font-family: "Century Gothic", serif;
+    font-weight: lighter;
+    font-size: 1000%;
+}
+
+h1.title, h2.title {
+    text-align: center;
+    color: yellow;
+    font-family: "Century Gothic", serif;
+    font-size: 500%;
+}
+
+h2.title {
+    font-size: 300%;
+}
+
+
+/*Reference for button style CSS: "https://fdossena.com/?p=html5cool/buttons/i.frag" */
+a.b1, a.b2 {
+    display: inline-block;
+    padding: 0.35em 1.2em;
+    border: 0.1em solid yellow;;
+    margin: 0 0.3em 0.3em 0;
+    border-radius: 0.12em;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: "Century Gothic", serif;
+    color: yellow;
+    font-size: 300%;
+    width: 400px;
+    text-align: center;
+    transition: all 0.1s;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+a.b1 {
+    font-size: 300%;
+}
+
+a.b2 {
+    width: 300px;
+    font-size: 150%;
+}
+
+
+a.b1:hover, a.b2:hover {
+    color: rgba(67, 0, 92, 0.98);
+    background-color: yellow;
+}
+
+
+.search, .keyButton, label {
+    font-family: "Century Gothic", serif;
+    font-size: 100%;
+    color: yellow;
+    background-color: rgba(67, 0, 92, 0.98);
+    display: inline-block;
+    border: 0.1em solid yellow;
+    border-radius: 0.12em;
+    box-sizing: border-box;
+    padding: 0.35em 1.2em;
+}
+
+.keyButton, .search {
+    color: rgba(67, 0, 92, 0.98);
+    background-color: yellow;
+}
+
+.textBar, .searchBar {
+    font-family: "Century Gothic", serif;
+    font-size: 100%;
+    border: 0.1em solid yellow;
+    padding: 0.35em 1.2em;
+    border-radius: 0.12em;
+    background: rgba(67, 0, 92, 0.98);
+    color: yellow;
+    outline: 0;
+}
+
+.textBar {
+    width: auto;
+    height: auto;
+}
+
+.textBar, .keyButton, label {
+    font-size: 150%;
+}
+
+.searchBar, .search {
+    font-size: 300%;
+    transition: 0.5s;
+}
+
+
+label:hover, .searchBar:hover {
+    color: rgba(67, 0, 92, 0.98);
+    background-color: yellow;
+}
+
+.keyButton:hover, .search:hover {
+    color: yellow;
+    background-color: rgba(67, 0, 92, 0.98);
+}
+
+.itemLists {
+    text-align: center;
+}
+
+
+div.centre {
+    text-align: center;
+}
+
+body {
+    background-color: rgba(67, 0, 92, 0.98);
+}
+
+textarea {
+    resize: none;
+    background-color: rgba(67, 0, 92, 0.98);
+    color: yellow;
+    font-size: 150%;
+    font-family: "Century Gothic", serif;
+    padding: 0.35em 1.2em;
+    border-radius: 0.12em;
+    border: 0.1em solid yellow;
+    outline: 0;
+}
+
+
+/*Reference for custom scroll bar: https://www.w3schools.com/howto/howto_css_custom_scrollbar.asp*/
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: yellow;
+    border-radius: 10px;
+}
+
+::placeholder {
+    color: yellow;
+}

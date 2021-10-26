@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <title>Add Text</title>
+</head>
+<body>
+<h1 class="title">Add Image</h1>
+<div style="text-align: center">
+    <form action="item.html" method="post" enctype="multipart/form-data">
+        <input type="text" name="name" placeholder="Enter name..." class="textBar"/><br><br>
+        <input type="file" name="file" id="chooseButton" accept="image/*" hidden/>
+        <label for="chooseButton">Choose File</label>
+        <input type="hidden" id="type" name="type" value="image"/><br><br>
+        <input type="submit" class="keyButton" value="Submit"/><br>
+    </form>
+</div>
+</body>
+</html>

@@ -1,0 +1,10 @@
+uk\ac\ucl\model\ModelFactory.class
+uk\ac\ucl\model\Model.class
+uk\ac\ucl\model\ItemList.class
+uk\ac\ucl\backend\FileHandler.class
+uk\ac\ucl\servlets\Uploader.class
+uk\ac\ucl\main\Main.class
+uk\ac\ucl\servlets\ItemListServlet.class
+uk\ac\ucl\servlets\SearchServlet.class
+uk\ac\ucl\model\Item.class
+uk\ac\ucl\servlets\ItemServlet.class

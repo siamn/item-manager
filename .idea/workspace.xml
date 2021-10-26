@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8529e67e-b1a7-43b8-b895-100f48041087" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="jsf" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/uk/ac/ucl/servlets/Uploader.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/buttons.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/uk/ac/ucl/model/Model.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/uk/ac/ucl/servlets/ItemServlet.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/uk/ac/ucl/servlets/ItemListServlet.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/uk/ac/ucl/model/Item.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/item.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/uk/ac/ucl/model/ItemList.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="2" />
+  </component>
+  <component name="ProjectId" id="1sg2Tde3PnmhrzuWff7sea1db5W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.uml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="uk.ac.ucl.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\siamn\OneDrive\Desktop\CompSci\OOP\coursework3\data" />
+      <recent name="C:\Users\siamn\OneDrive\Desktop\CompSci\OOP\coursework3\src\main\webapp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\siamn\OneDrive\Desktop\CompSci\OOP\coursework3\src\main\webapp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="uk.ac.ucl.servlets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="WebApp" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="package" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="exec:exec" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8529e67e-b1a7-43b8-b895-100f48041087" name="Default Changelist" comment="" />
+      <created>1621279922155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621279922155</updated>
+      <workItem from="1621279923622" duration="972000" />
+      <workItem from="1621347594261" duration="24000" />
+      <workItem from="1621377076308" duration="1436000" />
+      <workItem from="1621384952665" duration="487000" />
+      <workItem from="1621385483867" duration="27000" />
+      <workItem from="1621385551653" duration="4523000" />
+      <workItem from="1622068626442" duration="7376000" />
+      <workItem from="1622118028642" duration="3471000" />
+      <workItem from="1622121633783" duration="541000" />
+      <workItem from="1622122506967" duration="641000" />
+      <workItem from="1622155687217" duration="22258000" />
+      <workItem from="1622228187543" duration="12172000" />
+      <workItem from="1622242022866" duration="15304000" />
+      <workItem from="1622264669528" duration="3637000" />
+      <workItem from="1622268571237" duration="69000" />
+      <workItem from="1622323839610" duration="6214000" />
+      <workItem from="1622330129560" duration="8310000" />
+      <workItem from="1622340514163" duration="5046000" />
+      <workItem from="1622346223301" duration="8320000" />
+      <workItem from="1622354627783" duration="12189000" />
+      <workItem from="1622392696307" duration="2415000" />
+      <workItem from="1622396370995" duration="2085000" />
+      <workItem from="1622415876602" duration="2799000" />
+      <workItem from="1622422651647" duration="2772000" />
+      <workItem from="1622431149197" duration="13678000" />
+      <workItem from="1622444938543" duration="5843000" />
+      <workItem from="1622451120877" duration="2078000" />
+      <workItem from="1622456015921" duration="383000" />
+      <workItem from="1622456997359" duration="308000" />
+      <workItem from="1622457442079" duration="5740000" />
+      <workItem from="1622471253125" duration="228000" />
+      <workItem from="1622471821724" duration="9000" />
+      <workItem from="1626446081710" duration="1330000" />
+      <workItem from="1628984781112" duration="1233000" />
+      <workItem from="1630520823118" duration="291000" />
+      <workItem from="1633602915187" duration="1758000" />
+      <workItem from="1633642718578" duration="3000" />
+      <workItem from="1634661680908" duration="1188000" />
+      <workItem from="1635115184597" duration="2718000" />
+      <workItem from="1635204180848" duration="1095000" />
+      <workItem from="1635205364009" duration="941000" />
+      <workItem from="1635206367868" duration="34000" />
+      <workItem from="1635206437799" duration="95000" />
+      <workItem from="1635206572566" duration="12000" />
+      <workItem from="1635265125241" duration="11000" />
+      <workItem from="1635282743645" duration="7000" />
+      <workItem from="1635282883499" duration="495000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
