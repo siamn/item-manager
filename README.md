@@ -16,5 +16,5 @@ You can access the web app on http://localhost:8080/ after execution.
 ![Text Item View](/screenshots/text_item.png?raw=true)
 ![Image Item View](/screenshots/image_item.png?raw=true)
 ## License
-As this project does not contain a license, default copyright laws apply.
-You may not reproduce, distribute, or create derivative works from this work. 
+This project does not contain a license and thus default copyright laws apply.
+You may not reproduce, distribute, or create derivative works from this work.
