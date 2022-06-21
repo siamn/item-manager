@@ -1,5 +1,5 @@
 # Item Manager
-A Java web app that allows users to create and store lists of items (text, images or URLs).
+A Java web application that allows users to manage and archive lists of data (text, images or URLs).
 ## Details
 This project was created using IntelliJ IDEA and is configured to be packaged and executed using Maven.
 You can access the web app on http://localhost:8080/ after execution.
